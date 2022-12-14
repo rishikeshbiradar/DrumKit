@@ -1,0 +1,75 @@
+*
+{
+    background-color: rgb(41, 3, 77);
+}
+
+h1{
+    font-size: 85px;
+    text-align: center;
+    /* padding: 20px; */
+    color: rgb(203, 10, 10);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h6{
+    /* padding: 20px; */
+    font-size: 40px;
+    text-align: center;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.drum
+{
+    background-color: white;
+    /* color: */
+    width: 142px;
+    height: 142px;
+    border: 8px solid rgb(1, 14, 14);
+    border-radius: 5px;
+    font-size: 80px;
+    padding:0px 20px;
+    margin: 15px;
+
+}
+
+footer
+{
+    color:white;
+    padding-top: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.w
+{
+    background-image: url(tom1.png);
+}
+.a
+{
+
+    background-image: url(tom2.png);
+}
+.s
+{
+    background-image: url(tom3.png);
+}
+.d
+{
+    background-image: url(tom4.png);
+}
+.k
+{
+    background-image: url(crash.png);
+}
+.l
+{
+    background-image: url(kick.png);
+}
+.j
+{
+    background-image: url(snare.png);
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity:0.5;
+}
